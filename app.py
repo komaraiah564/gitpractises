@@ -1,0 +1,2 @@
+name =vinay
+printf = devops
